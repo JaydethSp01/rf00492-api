@@ -1,2 +1,3 @@
-# rf00492-api
-ScrumDev AI backend (rf00492-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
